@@ -302,10 +302,3 @@ JWT_EXPIRES_IN=7d
 
 This project is licensed under the MIT License.
 
-## 💬 Support
-
-For support and questions, please open an issue in the repository.
-
----
-
-**🎉 This project demonstrates full-stack development skills with Express.js, MongoDB, and JWT authentication. Perfect for bootcamp assessments and portfolio projects!**
